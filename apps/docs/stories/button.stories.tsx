@@ -39,7 +39,7 @@ export const Primary: Story = {
     style: {
       color: "blue",
       border: "1px solid gray",
-      padding: 10,
+      padding: 1,
       borderRadius: 10,
     },
   },
